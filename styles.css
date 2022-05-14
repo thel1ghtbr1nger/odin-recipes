@@ -1,4 +1,8 @@
 * {
     color: white;
-    background-color: black
+    background-color: black;
+    border: 2px solid white;
+}
+.main-heads {
+    text-align: center;
 }
