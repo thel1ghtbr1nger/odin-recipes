@@ -1,8 +1,38 @@
 * {
     color: white;
     background-color: black;
-    border: 2px solid white;
+    font-family: "Roboto", sans-serif;
 }
-.main-heads {
+
+.main-heads, .str-para {
     text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28;
+}
+
+.str-para {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.recipe-heads {
+    font-size: 22px;
+    
+}
+
+.std-box {
+    border: 3px solid white;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffffff10
 }
